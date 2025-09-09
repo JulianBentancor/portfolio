@@ -49,7 +49,7 @@ const Home = ({ setActiveSection }) => {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-            Desarrollador Backend apasionado por crear experiencias y proyectos
+            Desarrollador FullStack apasionado por crear experiencias y proyectos
             increíbles
           </p>
 

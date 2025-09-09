@@ -28,7 +28,7 @@ const About = () => {
             <div className="space-y-6">
               <h3 className="text-2xl font-bold text-gray-800">¡Hola! Soy Julian</h3>
               <p className="text-gray-600 leading-relaxed">
-                Soy un desarrollador Backend con experiencia creando aplicaciones modernas y escalables. 
+                Soy un desarrollador FullStack con experiencia creando aplicaciones modernas y escalables. 
                 Mi pasión por la tecnología comenzó desde muy chico, y en la universidad no he parado de aprender y crear.
               </p>
               <p className="text-gray-600 leading-relaxed">
